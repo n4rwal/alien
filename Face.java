@@ -6,7 +6,7 @@ public class FacePrinter {
 		System.out.println("      |     ");
 		System.out.println(" ____|||___ ");	
 		System.out.println(" |        | ");
-		System.out.println("(| 0    0 |)");
+		System.out.println("(| 00  00 |)");
 		System.out.println(" |        | ");
 		System.out.println(" |   __   | ");
 		System.out.println(" .......... ");
